@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+.root{
+	background-color:rgb(135, 206, 235);
+}
+.first-child{
+	background-color:black;
+	color:white;
+}
+.sec-child{
+	color:black;
+}
+.last-child{
+	color:red;
+}
+.list{
+	
+}
+#l1{
+	font-size:22px;
+	background-color:white;
+	width:50%;
+	padding:10px;
+}
+#l2{
+	width:50%;
+	padding:10px;
+	background-color:gray;
+}
+#l3{
+	background-color:pink;
+	width:50%;
+	padding:10px;
+}
+#l4{
+	width:50%;
+	padding:10px;
+	background-color:gray;
+}
+#l5{
+	width:50%;
+	padding:10px;
+	font-size:22px;
+	background-color:white;
+}
